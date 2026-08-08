@@ -83,11 +83,11 @@ Hi Everyone,
 
 Please find the link below containing the required project files. Follow these steps to run the application locally:
 
-    Download the Files: Click the link provided below to download the ZIP folder (which contains two files/videos).
+  Download the Files: Click the link provided below to download the ZIP folder (which contains two files/videos).
 
-    Extract the Files: Once the download is complete, extract (unzip) the ZIP folder.
+  Extract the Files: Once the download is complete, extract (unzip) the ZIP folder.
 
-    Move to Project Directory: Move the extracted files into our local project directory (the Ticket App folder).
+  Move to Project Directory: Move the extracted files into our local project directory (the Ticket App folder).
 
 After completing these steps, you will be able to fully use and test the app locally.
 
