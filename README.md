@@ -89,10 +89,6 @@ Please find the link below containing the required project files. Follow these s
 
   Move to Project Directory: Move the extracted files into our local project directory (the Ticket App folder).
 
-After completing these steps, you will be able to fully use and test the app locally.
-
-🔗 Link: https://drive.google.com/drive/folders/1QFOXfE3VxLPw99mX-yd-QLcs1QO_Raun?usp=sharing
-
 ---
 
 ### 🚀 Setup Steps
